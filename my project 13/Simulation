@@ -1,0 +1,9 @@
+demux1to4.v
+      +
+demux1to4_tb.v
+      ↓
+Icarus Verilog
+      ↓
+VCD waveform
+      ↓
+GTKWave
